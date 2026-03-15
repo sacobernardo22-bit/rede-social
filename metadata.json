@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Social",
+  "description": "A modern social network with real-time chat, stories, and AI integration.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
